@@ -1,4 +1,4 @@
-# MDM4U-Culminating-Game-Project-Balance-at-the-Third （BATT）
+# Game-Project-Balance-at-the-Third （BATT）
 ## The info 
 ### Info include in Readme:
 - Game Rule
