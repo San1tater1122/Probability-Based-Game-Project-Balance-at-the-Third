@@ -7,10 +7,6 @@
 - Expected Value Calculation
 - Experimental data
 - Probability Distribution Diagram
-### Info not in Readme:
-- MDM4U Culminating Game Project "Balance at the Third" Report (IMPORTANT!)
-- MDM4U Culminating Project “BATT” Excel Chart (some data in the report will be refence from here)
-- See the other file on this github
 
 ---
 ## Game Rule
